@@ -1,0 +1,23 @@
+body {
+    background-color: rgba(128, 128, 128, 0.294);
+}
+
+h1 {
+    color: red;
+}
+
+p {
+    color: rgb(25, 219, 67);
+    font-size: large;
+    font-style: normal;
+}
+
+p.note {
+    color: rgb(217, 9, 224);
+    font-style: italic;
+}
+
+p.hwpd {
+    color: tan;
+    font-style: italic;
+}
